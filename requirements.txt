@@ -2,6 +2,6 @@ fastai
 jupyterlab
 nbdev
 pandas
+seaborn
 torch>=2.0.*
 torch_geometric
-# torch-cluster
