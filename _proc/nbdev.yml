@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "graph-ml"
+  site-url: "https://jdbergren@gmail.com.github.io/graph-ml"
+  description: "Graph ML practice, exploration"
+  repo-branch: main
+  repo-url: "https://github.com/jdbergren@gmail.com/graph-ml"

@@ -1,0 +1,7 @@
+fastai
+jupyterlab
+nbdev
+pandas
+torch>=2.0.*
+torch_geometric
+# torch-cluster
